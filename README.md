@@ -1,9 +1,9 @@
 # suspicious-apk - quick analysis    
 
-## We received a suspicous applcation to analyze
+## We received a suspicious application to analyze
 We are very happy that the companies are sharing their findings and doing their own reseach of APPs they use.
 
-Today we have a Lithuanian software which is specifically designed to - "Track and manage employee location" and being pushed to for various medical institutions (private sector and GOV).
+Today we have a Lithuanian software which is specifically designed to "Track and manage employee location" and being pushed to for various medical institutions (private sector and GOVs).
 
 ![image](https://github.com/user-attachments/assets/41b59280-d402-494e-a73c-84c1ebffd3cc)    
 
@@ -12,8 +12,8 @@ Today we have a Lithuanian software which is specifically designed to - "Track a
 
 # There are few red flags within this APP    
 
-1. APP can only be found on their website and not on official page (understandable - it's just a startup)
-**But then everything goes downhill, don't know where should I even start...**
+1. APP can only be found on their website and not on the official page (understandable - it's just a startup)
+**But then everything goes downhill, I don't know where I should even start...**
 2. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.
 3. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**     
 
@@ -57,7 +57,8 @@ In the APK source code we can also find some certs:
 
 ![image](https://github.com/user-attachments/assets/7c69fdaf-8505-4747-8844-fe836f7bd879) ![image](https://github.com/user-attachments/assets/3dd66401-4385-4cb6-8afe-559cb98d3e7f)
 
-
+More strange implementation methods:
+![image](https://github.com/user-attachments/assets/405c46c8-0dc2-49e5-829c-e72782e045ee)    
 
 
 
