@@ -42,7 +42,8 @@ And many more issues...
 **Examining Multiple Configuration Files**    
 Telemetry could be sent to China & Russia it seems:    
 
-![Screenshot_11](https://github.com/user-attachments/assets/8c4aae2f-629c-40dd-95aa-e2be7efc8fd5)    
+![Screenshot_11](https://github.com/user-attachments/assets/8be3b0f1-dbb5-4b79-844e-a322b7fb48bd)    
+
 
 
 The presence of separate JSON files (e.g., grs_sdk_global_route_config_extservice.json, grs_sdk_global_route_config_hianalytics.json, etc.) suggests the app uses different services or components, each with its own network settings. 
