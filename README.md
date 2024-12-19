@@ -57,11 +57,13 @@ In the APK source code we can also find some certs:
 
 ![image](https://github.com/user-attachments/assets/7c69fdaf-8505-4747-8844-fe836f7bd879) ![image](https://github.com/user-attachments/assets/3dd66401-4385-4cb6-8afe-559cb98d3e7f)
 
-More strange implementation methods:
+More strange implementation methods:    
+
 ![image](https://github.com/user-attachments/assets/405c46c8-0dc2-49e5-829c-e72782e045ee)    
 
 
 
 ## IOC    
 - SHA256: c62d93af91062fd522166ccc1647e4b390e91b0b73f985e368da88b899d8f8e2    
-- Android Package: com.atvykis    
+- Android Package: com.atvykis
+- Domain: hxxps://www.atvykis[.]lt  
