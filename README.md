@@ -65,6 +65,15 @@ More strange implementation methods:
 
 ![image](https://github.com/user-attachments/assets/405c46c8-0dc2-49e5-829c-e72782e045ee)    
 
+**And more:**  
+AndroidManifest.xml file. The Android application exports a component to use other android applications but does not properly restrict which application can launch the feature or access the data it contains. If access to an exported Service is not restricted, any application would start and bind the service. It may allow a malicious application to perform unauthorised actions, increase access to sensitive information, or corrupt the application's internal state based on the exposed functionality.  
+
+![Screenshot 2024-12-20 085002](https://github.com/user-attachments/assets/d60554d9-ecef-4b62-8da8-71eeb02f8b6d)  
+![Screenshot 2024-12-20 085015](https://github.com/user-attachments/assets/6f8bbc5f-4368-425e-87a6-1548bdc2ce74)  
+
+
+
+
 
 
 ## IOC    
