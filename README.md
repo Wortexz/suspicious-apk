@@ -19,18 +19,20 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 4. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.    
 5. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**     
 
+**File Path:** "ch\qos\logback\core\net\ssl\SSL.java"
+
 ![Screenshot_8](https://github.com/user-attachments/assets/6d86a0d3-8d3a-420b-8c06-6ecbd0492834)    
 
-4. **Stored API keys in source code:**    
+6. **Stored API keys in source code:**    
 
 ![Screenshot_9](https://github.com/user-attachments/assets/c68b5d3d-dd6a-4e6a-b211-9225c8455dd8)    
 
 
-5. **The android application used to generate random numbers in java is java.util.Random. Usage of java.util.Random class makes the random number generation cryptographically weak.**        
-
+7. **The android application used to generate random numbers in java is java.util.Random. Usage of java.util.Random class makes the random number generation cryptographically weak.**        
+ 
 ![image](https://github.com/user-attachments/assets/45652b53-7f19-4bd1-a793-caf002c45fd6)    
 
-6. **Aplication uses the SHA-1 MessageDigest algorithm, which is weak.**    
+8. **Aplication uses the SHA-1 MessageDigest algorithm, which is weak.**    
 
 ![image](https://github.com/user-attachments/assets/dd94bf91-310b-4d18-b306-a1b4530f863e)    
 
@@ -48,8 +50,7 @@ Telemetry could be sent to China & Russia it seems:
 
 
 
-The presence of separate JSON files (e.g., grs_sdk_global_route_config_extservice.json, grs_sdk_global_route_config_hianalytics.json, etc.) suggests the app uses different services or components, each with its own network settings. 
-This is common in apps with diverse functionalities (analytics, location services, etc.). The app's communication with external servers raises potential data privacy concerns.
+The presence of separate JSON files (e.g., grs_sdk_global_route_config_extservice.json, grs_sdk_global_route_config_hianalytics.json, etc.) suggests the app uses different services or components, each with its own network settings. This is common in apps with diverse functionalities (analytics, location services, etc.).
 
 **Presence of Chinese and Russian Domains:**    
 
@@ -69,4 +70,5 @@ More strange implementation methods:
 ## IOC    
 - SHA256: c62d93af91062fd522166ccc1647e4b390e91b0b73f985e368da88b899d8f8e2    
 - Android Package: com.atvykis
-- Domain: hxxps://www.atvykis[.]lt  
+- Domain: hxxps://www.atvykis[.]lt
+- App Version: 1.0
