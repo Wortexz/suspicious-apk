@@ -12,10 +12,12 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 
 # There are few red flags within this APP    
 
-1. APP can only be found on their website and not on the official page (understandable - it's just a startup)
-**But then everything goes downhill, I don't know where I should even start...**
-2. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.
-3. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**     
+1. APP can only be found on their website and not on the official page (understandable - it's just a startup)    
+
+**But then everything goes downhill, I don't know where I should even start...**    
+
+4. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.    
+5. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**     
 
 ![Screenshot_8](https://github.com/user-attachments/assets/6d86a0d3-8d3a-420b-8c06-6ecbd0492834)    
 
