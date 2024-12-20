@@ -3,7 +3,7 @@
 ## We received a suspicious application to analyze
 We are very happy that the companies are sharing their findings and doing their own reseach of APPs they use.
 
-Today we have a Lithuanian software which is specifically designed to "Track and manage employee location" and being pushed to for various medical institutions (private sector and GOVs).
+Today we have a Lithuanian software which is specifically designed to "Track and manage employee location" and being pushed to for various medical institutions (private sector and GOVs) via email.
 
 ![image](https://github.com/user-attachments/assets/41b59280-d402-494e-a73c-84c1ebffd3cc)    
 
