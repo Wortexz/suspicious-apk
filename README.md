@@ -18,7 +18,9 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 
 ## There are few red flags within this APP    
 
-1. APP can only be found on their website and not on the official page (understandable - it's just a startup)    
+1. APP can only be found on their website and not on the official page (understandable - it's just a startup)
+2. 
+![397535899-c68b5d3d-dd6a-4e6a-b211-9225c8455dd8](https://github.com/user-attachments/assets/ed251e67-a9de-444a-b9db-fe5ff8a17061)  
 
 **But then everything goes downhill, I don't know where I should even start...**    
 
@@ -27,7 +29,6 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 
 **File Path:** "ch\qos\logback\core\net\ssl\SSL.java"
 
-![Screenshot_8](https://github.com/user-attachments/assets/6d86a0d3-8d3a-420b-8c06-6ecbd0492834)    
 
 4. **Stored API keys in source code:**    
 
