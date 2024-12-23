@@ -25,15 +25,13 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 2. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.    
 3. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**
 
-![397548095-8be3b0f1-dbb5-4b79-844e-a322b7fb48bd](https://github.com/user-attachments/assets/b5dc5724-af95-4a3d-9699-f63eab977600)  
-
 **File Path:** "ch\qos\logback\core\net\ssl\SSL.java"
 
 ![397535899-c68b5d3d-dd6a-4e6a-b211-9225c8455dd8](https://github.com/user-attachments/assets/d50e3301-fb55-4057-9a6b-b28558f2ecac)  
 
 4. **Stored API keys in source code:**    
 
-![Screenshot_9](https://github.com/user-attachments/assets/c68b5d3d-dd6a-4e6a-b211-9225c8455dd8)    
+![397535899-c68b5d3d-dd6a-4e6a-b211-9225c8455dd8](https://github.com/user-attachments/assets/f6c49889-89dc-4f31-89d4-12550d92739d)  
 
 
 5. **The android application used to generate random numbers in java is java.util.Random. Usage of java.util.Random class makes the random number generation cryptographically weak.**        
