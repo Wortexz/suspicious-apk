@@ -27,7 +27,8 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 
 **File Path:** "ch\qos\logback\core\net\ssl\SSL.java"
 
-![397535899-c68b5d3d-dd6a-4e6a-b211-9225c8455dd8](https://github.com/user-attachments/assets/d50e3301-fb55-4057-9a6b-b28558f2ecac)  
+![397532896-6d86a0d3-8d3a-420b-8c06-6ecbd0492834](https://github.com/user-attachments/assets/59506a56-75a1-4a35-b740-8e6a2ec41ce7)  
+
 
 4. **Stored API keys in source code:**    
 
