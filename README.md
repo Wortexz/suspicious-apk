@@ -73,7 +73,7 @@ AndroidManifest.xml file. The Android application exports a component to use oth
 ![Screenshot 2024-12-20 085015](https://github.com/user-attachments/assets/6f8bbc5f-4368-425e-87a6-1548bdc2ce74)  
 
 # Checking APP on VirusTotal
-We can confirm that the APP is not malicious  
+We can confirm that the APP is not malicious.  
 
 ![image](https://github.com/user-attachments/assets/7e9c71ca-6beb-4945-96c2-3ee331509e44)  
 
