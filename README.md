@@ -80,9 +80,13 @@ AndroidManifest.xml file. The Android application exports a component to use oth
 ![Screenshot 2024-12-20 085015](https://github.com/user-attachments/assets/6f8bbc5f-4368-425e-87a6-1548bdc2ce74)  
 
 # Checking APP on VirusTotal
-We can confirm that the APP is not malicious.  
 
-![image](https://github.com/user-attachments/assets/7e9c71ca-6beb-4945-96c2-3ee331509e44)  
+![image](https://github.com/user-attachments/assets/c676ef2b-1f3c-43ef-8910-c7670757c238)  
+
+After submitting to ESET Research Lab:  
+
+![image](https://github.com/user-attachments/assets/40a82dbb-5729-4789-af57-dab5a0f5cc2d)  
+
 
 # Dynamic APP testing  
 Downloaded suspicious APK file and installed it on our testing device.  
@@ -110,3 +114,4 @@ Domain belongs to:
 - Android Package: com.atvykis
 - Domain: hxxps://www.atvykis[.]lt
 - App Version: 1.0
+- ESET detection: Android/Agent.FEB
