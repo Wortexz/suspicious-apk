@@ -3,7 +3,7 @@
 ## We received a suspicious application to analyze
 We are very happy that the companies are sharing their findings and doing their own reseach of APPs they use.
 
-Big thanks to HILA.LT for sharing info about this app.
+**Big thanks to HILA.LT for sharing info about this app.**
 
 Today we have a Lithuanian software which is specifically designed to "Track and manage employee location" and being pushed to for various medical institutions (private sector and GOVs) via email.
 
