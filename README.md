@@ -77,7 +77,21 @@ We can confirm that the APP is not malicious.
 
 ![image](https://github.com/user-attachments/assets/7e9c71ca-6beb-4945-96c2-3ee331509e44)  
 
+# Dynamic APP testing  
+Downloaded suspicious APK file and installed it on our testing device.  
 
+
+**When logging in we see that there is active communication to this server: "atvykis-be-3cc242149b04.herokuapp[.]com"**  
+SSL certificate is valid until	Mon, 31 Mar 2025 23:59:59 UTC (expires in 3 months)  
+
+**Although this domain "herokuapp[.]com" seems to be clean in terms of malware - SSL certificate expired a year ago:**   
+
+![image](https://github.com/user-attachments/assets/b9433b20-1db9-4757-b2f2-5f7aba03f247)  
+
+
+Domain belongs to:  
+
+![image](https://github.com/user-attachments/assets/c0d4f655-6d7e-40fd-9bca-5bfa2db9487f)  
 
 
 
