@@ -84,6 +84,9 @@ Downloaded suspicious APK file and installed it on our testing device.
 **When logging in we see that there is active communication to this server: "atvykis-be-3cc242149b04.herokuapp[.]com"**  
 SSL certificate is valid until	Mon, 31 Mar 2025 23:59:59 UTC (expires in 3 months)  
 
+![image](https://github.com/user-attachments/assets/cc3d50a7-ea9d-4519-8300-7b59423f7285)  
+
+
 **Although this domain "herokuapp[.]com" seems to be clean in terms of malware - SSL certificate expired a year ago:**   
 
 ![image](https://github.com/user-attachments/assets/b9433b20-1db9-4757-b2f2-5f7aba03f247)  
