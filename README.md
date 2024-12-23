@@ -50,7 +50,8 @@ Telemetry could be sent to China & Russia it seems:
 
 
 
-The presence of separate JSON files (e.g., grs_sdk_global_route_config_extservice.json, grs_sdk_global_route_config_hianalytics.json, etc.) suggests the app uses different services or components, each with its own network settings. This is common in apps with diverse functionalities (analytics, location services, etc.).
+The presence of separate JSON files (e.g., grs_sdk_global_route_config_extservice.json, grs_sdk_global_route_config_hianalytics.json, etc.) suggests the app uses different services or components, each with its own network settings. 
+This is common in apps with diverse functionalities (analytics, location services, etc.).  
 
 **Presence of Chinese and Russian Domains:**    
 
@@ -71,6 +72,10 @@ AndroidManifest.xml file. The Android application exports a component to use oth
 ![Screenshot 2024-12-20 085002](https://github.com/user-attachments/assets/d60554d9-ecef-4b62-8da8-71eeb02f8b6d)  
 ![Screenshot 2024-12-20 085015](https://github.com/user-attachments/assets/6f8bbc5f-4368-425e-87a6-1548bdc2ce74)  
 
+# Checking APP on VirusTotal
+We can confirm that the APP is not malicious  
+
+![image](https://github.com/user-attachments/assets/7e9c71ca-6beb-4945-96c2-3ee331509e44)  
 
 
 
