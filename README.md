@@ -16,23 +16,23 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 
 **But then everything goes downhill, I don't know where I should even start...**    
 
-4. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.    
-5. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**     
+2. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.    
+3. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**     
 
 **File Path:** "ch\qos\logback\core\net\ssl\SSL.java"
 
 ![Screenshot_8](https://github.com/user-attachments/assets/6d86a0d3-8d3a-420b-8c06-6ecbd0492834)    
 
-6. **Stored API keys in source code:**    
+4. **Stored API keys in source code:**    
 
 ![Screenshot_9](https://github.com/user-attachments/assets/c68b5d3d-dd6a-4e6a-b211-9225c8455dd8)    
 
 
-7. **The android application used to generate random numbers in java is java.util.Random. Usage of java.util.Random class makes the random number generation cryptographically weak.**        
+5. **The android application used to generate random numbers in java is java.util.Random. Usage of java.util.Random class makes the random number generation cryptographically weak.**        
  
 ![image](https://github.com/user-attachments/assets/45652b53-7f19-4bd1-a793-caf002c45fd6)    
 
-8. **Aplication uses the SHA-1 MessageDigest algorithm, which is weak.**    
+6. **Aplication uses the SHA-1 MessageDigest algorithm, which is weak.**    
 
 ![image](https://github.com/user-attachments/assets/dd94bf91-310b-4d18-b306-a1b4530f863e)    
 
