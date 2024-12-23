@@ -23,7 +23,9 @@ Today we have a Lithuanian software which is specifically designed to "Track and
 **But then everything goes downhill, I don't know where I should even start...**    
 
 2. HTTP URLs in the source code. By default, the HTTP is insecure and fails to encrypt network traffic when necessary to protect sensitive communications.    
-3. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**     
+3. **Not only this Android application uses a hardcoded password in source code but also it's the default value:**
+
+![397548095-8be3b0f1-dbb5-4b79-844e-a322b7fb48bd](https://github.com/user-attachments/assets/b5dc5724-af95-4a3d-9699-f63eab977600)  
 
 **File Path:** "ch\qos\logback\core\net\ssl\SSL.java"
 
