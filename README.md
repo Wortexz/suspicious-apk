@@ -5,6 +5,10 @@ We are very happy that the companies are sharing their findings and doing their 
 
 Today we have a Lithuanian software which is specifically designed to "Track and manage employee location" and being pushed to for various medical institutions (private sector and GOVs) via email.
 
+![IMG_20241223_164859](https://github.com/user-attachments/assets/d0b91661-2a83-4305-8c9d-bcc115594e15)  
+
+## The website:  
+
 ![image](https://github.com/user-attachments/assets/41b59280-d402-494e-a73c-84c1ebffd3cc)    
 
 ![image](https://github.com/user-attachments/assets/5940f096-ee9e-4540-8105-4864f66f2573)
