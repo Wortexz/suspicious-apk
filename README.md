@@ -87,6 +87,10 @@ After submitting to ESET Research Lab:
 
 ![image](https://github.com/user-attachments/assets/40a82dbb-5729-4789-af57-dab5a0f5cc2d)  
 
+**Checked on 2024-12-28**  
+
+![image](https://github.com/user-attachments/assets/83c96aed-738d-4a06-a554-4b11afbdbe5c)  
+
 
 # Dynamic APP testing  
 Downloaded suspicious APK file and installed it on our testing device.  
