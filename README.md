@@ -1,7 +1,7 @@
 # suspicious-apk - quick analysis    
 
 ## We received a suspicious application to analyze
-We are very happy that the companies are sharing their findings and doing their own reseach of APPs they use.
+We are very happy that the companies are sharing their findings and doing their own research of APPs they use.
 
 **Big thanks to HILA.LT for sharing info about this app.**
 
